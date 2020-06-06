@@ -4,7 +4,7 @@ The case studies involved analysing migration trend into the United States of Am
 Data source: United Nations website see script file for link.
 The objective of the project is to see the immigration rate in to the Us over the years by  generating several visual diagrams
 
-<img src="https://i.ytimg.com/vi/GlJg2h2NrTM/maxresdefault.jpg.jpg"/>
+<img src="https://i.ytimg.com/vi/GlJg2h2NrTM/maxresdefault.jpg"/>
 
 ## INTRODUCTION
 
